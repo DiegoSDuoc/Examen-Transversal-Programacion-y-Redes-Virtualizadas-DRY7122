@@ -3,7 +3,7 @@ import urllib.parse
  
 route_url = "https://graphhopper.com/api/1/route?" 
 loc1 = "Santiago, Chile" 
-loc2 = "Ovalle, Chile" 
+loc2 = "Buenos Aires, Argentina" 
 key = "8cc5e325-e7ca-445a-a326-b705794c9584"  ## Reemplaza con tu clave API 
 
 def geocoding(location, key): 
